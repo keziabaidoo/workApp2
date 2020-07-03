@@ -1,0 +1,41 @@
+  body{
+    background-color:palegreen;
+    opacity: 0.5;
+  }
+
+.flex-center{
+    background-image: url(../images/pinnye.jpg);
+    color: blue;
+    height: 800px;  
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      width: 1020px;
+      
+
+      
+       
+}
+      ul:hover{
+         color: coral;
+      }
+
+
+.navbar-home{
+  background-color:burlywood;
+}
+
+
+.text-in{
+    margin-top: 90;
+}
+
+.name:hover{
+  font-size:20;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: cornsilk;
+  
+  
+
+}
+

@@ -1,0 +1,39 @@
+.navbar-home {
+    border: none;
+    border-radius: 0px;
+    background-color:rgb(216, 107, 107);
+    margin-bottom: 0px;
+}
+
+.navbar-home .navbar-nav > li > a {
+    color: #d9edf7;
+
+}
+
+.navbar-home .navbar-brand {
+    color: #d9edf7;
+    font-weight: bold;
+}
+
+.carousel-content {
+    height: 500px;
+} 
+.about-pizza{
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.pizza-tyes{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.footer {
+	background-color: #a94442;;
+	padding: 1.5rem ;
+	color: #d9edf7 ;
+}
+
+
+
+    
